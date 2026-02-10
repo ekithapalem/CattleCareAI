@@ -1,6 +1,9 @@
 # **CattleCareAI**  
 AI & NLP-based Disease Detection System for Dairy Cattle
 
+##Project Type 
+Group Academic project
+
 ## **Overview**
 CattleCareAI is an AI and NLP-driven system designed to predict diseases in dairy cattle based on symptoms provided by farmers. It utilizes voice recognition, machine learning, and natural language processing to provide a user-friendly and accurate platform for diagnosing cattle diseases and suggesting treatments.
 
@@ -10,6 +13,12 @@ CattleCareAI is an AI and NLP-driven system designed to predict diseases in dair
 - **Machine Learning Model**: A trained machine learning model predicts potential diseases based on input symptoms.
 - **Disease Suggestions**: Provides a list of potential diseases with confidence scores and recommended actions for treatment.
 - **Multilingual Support**: Supports multiple languages to enhance accessibility for farmers.
+
+ ## My Contribution
+- Understood project requirements and problem statement
+- Assisted in documentation and report preparation
+- Reviewed dataset structure and overall project flow
+- Supported result interpretation and team coordination
 
 ## **Tech Stack**
 - **Frontend**: HTML, CSS, JavaScript
@@ -82,3 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 You can customize this template based on your project specifics and add any additional details as needed.
+
+## Credits
+This project was developed as a group academic project with team members.
+Original implementation belongs to the respective contributors.
